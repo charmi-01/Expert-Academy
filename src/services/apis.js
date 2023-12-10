@@ -1,6 +1,6 @@
 
 // const BASE_URL = process.env.REACT_APP_BASE_URL
-const BASE_URL = `https://study-notion-backend-gw2w.onrender.com`;
+const BASE_URL = `https://study-notion-backend-gw2w.onrender.com/api/v1`;
 
 // AUTH ENDPOINTS
 export const endpoints = {
